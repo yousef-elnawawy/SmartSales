@@ -1,0 +1,6 @@
+{
+  "name": "SmartSales PRO",
+  "description": "Android companion client for SmartSalesSystemPRO with Sales dashboard, customized permissions tracker, client statements ledger, offline access, and Stripe electronic checkout emulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
